@@ -1,2 +1,1 @@
-# company_takehomes
-Previous company take-home assignments.
+# Previous Company Take-Home Assignments.
